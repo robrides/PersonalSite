@@ -187,7 +187,7 @@
 		items: 3,
 		loop: false,
 		center: false,
-		rewind: false,
+		rewind: true,
 		checkVisibility: true,
 
 		mouseDrag: true,
@@ -205,7 +205,7 @@
 		startPosition: 0,
 		rtl: false,
 
-		smartSpeed: 250,
+		smartSpeed: 375,
 		fluidSpeed: false,
 		dragEndSpeed: false,
 
